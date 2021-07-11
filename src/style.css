@@ -1,0 +1,15 @@
+:root {
+  --color-1: #0099ae;
+  --color-2: #00bf82;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  position: relative;
+}
